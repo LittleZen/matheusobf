@@ -1,20 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Matheus Santos e sou <strong>Desenvolvedor Full-stack</strong>.<br>
-  Atualmente estou focado em Projetos Pessoais.
+  Tra C, JS e vulnerabilità sono sicuro che ti troverai bene! 🤖
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5, CSS3, JavaScript.</strong>
+  🔥 Linguaggi: <strong>C#, C++, C, Python, Shell...</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Photoshop.</strong>
+  💼 Tools: <strong>Visual Studio, VSCode, Notepad++, Vim</strong>
 </p>
 
 <p align="left">
-  💌 Caso queira entrar em contato comigo: ⤵️
+  💌 Cerchi qualcosa?: ⤵️
 </p>
 
 <p align="left">
